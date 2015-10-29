@@ -1,2 +1,2 @@
 # #crowdrent 
- crowdfunding for 'rentals': rent use of gadgets dirt cheap in advance and as a purchase for your community by leveraging purchase power. (great way to stock gadgets in 'collaborative spaces': coworking, makerspaces, fab labs, etc)
+ crowdfunding for 'rentals': pay dirt cheap in advance to use gadgets for your community to then keep, by leveraging purchase power. (great way to supply 'collaborative spaces': coworking, makerspaces, fab labs, etc, and attract members)
